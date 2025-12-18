@@ -6,7 +6,7 @@
       "name": "MoonWakeX",
       "defconfig": "ruby_defconfig",
       "extraConfig": "vendor/lz4kd.config vendor/bbr.config vendor/noop.config vendor/lru.config vendor/kernelsu.config vendor/susfs.config",
-      "repo": "https://github.com/RainyXeon/moonwake_kernel_xiaomi_ruby",
+      "repo": "https://github.com/tseminghong/moonwake_kernel_xiaomi_ruby",
       "branch": "MoonX-KSUN"
     },
     "output_image": "Image.gz-dtb",
